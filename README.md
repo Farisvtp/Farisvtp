@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faris P</h1>
+<div align="center"> <img src="https://github.com/Farisvtp/python-mini-pro/blob/master/github%20banner.png"> </div>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farisvtp&label=Profile%20views&color=0e75b6&style=flat" alt="farisvtp" /> </p>
