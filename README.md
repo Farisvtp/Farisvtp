@@ -30,3 +30,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farisvtp&show_icons=true&locale=en" alt="farisvtp" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farisvtp&" alt="farisvtp" /></p>
+
+
+![snake gif](https://github.com/Farisvtp/Farisvtp/blob/output/github-contribution-grid-snake.gif)
+
+
+
