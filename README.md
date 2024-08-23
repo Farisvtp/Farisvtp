@@ -20,11 +20,9 @@ Highly skilled DevOps Engineer with extensive experience in automating infrastru
 
 <h3 align="left">Tools</h3>
 <div align="left">
- <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
- <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" width="48" height="48" alt="GitLab" />
+ <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS icon" width="65" height="65" />
  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
- <img alt="postman" src="https://img.shields.io/badge/Postman-%23ED8B00.svg?style=for-the-badge&logo=Postman&logoColor=white"/>
- <img alt="Hopscotch" src="https://img.shields.io/badge/Hopscotch-4EA94B?style=for-the-badge&logo=Hopscotch&logoColor=white"/>
+ 
 </div>
 
 
@@ -33,12 +31,11 @@ Highly skilled DevOps Engineer with extensive experience in automating infrastru
  
  <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=SHABIN-K&show_icons=true&theme=dark&locale=en" alt="shabin Github Stats" /></td>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SHABIN-K&theme=dark" alt="Shabin k status" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Farisvtp&show_icons=true&theme=dark&locale=en" alt="Faris P Github Stats" /></td>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Farisvtp&theme=dark" alt="Faris P status" /></td>
   </tr>
 </table>
 
-<div align="center">
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SHABIN-K&show_icons=true&theme=dark&locale=en&layout=compact" alt="shabin Github Stats" /></p>
+</p>
  </div>
  
