@@ -35,17 +35,6 @@ Highly skilled DevOps Engineer with extensive experience in automating infrastru
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python logo" width="65" height="65" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask logo" width="65" height="65" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab logo" width="65" height="65" />
-
- 
-
-
-
-
-
-
-
-
- 
 </div>
 
 
@@ -60,5 +49,9 @@ Highly skilled DevOps Engineer with extensive experience in automating infrastru
 </table>
 
 </p>
+
+
  </div>
+
+
  
