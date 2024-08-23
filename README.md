@@ -10,10 +10,10 @@ Highly skilled DevOps Engineer with extensive experience in automating infrastru
 
 # My Social Profiles
 <p align="center">
-<a href="https://www.instagram.com/farixh.__/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/shabin.k-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://t.me/eric" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/shabin.k-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
- <a href="hellofaris7@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Shabink-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/farisp/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/shabin.k-%231877F2.svg?&style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/farixhh.__/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Faris P-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://t.me/eric" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Faris P-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+ <a href="hellofaris7@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Faris P-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/farisp/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Faris P-%231877F2.svg?&style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 </p>
 
 <h3 align="left">Web Tech Stack :</h3>
