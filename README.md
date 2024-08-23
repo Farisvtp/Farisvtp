@@ -22,6 +22,22 @@ Highly skilled DevOps Engineer with extensive experience in automating infrastru
 <div align="left">
  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS icon" width="65" height="65" />
  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original-wordmark.svg" alt="Ansible icon" width="65" height="65" />
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins icon" width="65" height="65" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes icon" width="65" height="65" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" alt="Terraform icon" width="65" height="65" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original-wordmark.svg" alt="Maven icon" width="65" height="65" />
+ <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux icon" width="65" height="65" /></a>
+ 
+
+
+
+
+
+
+
+
  
 </div>
 
