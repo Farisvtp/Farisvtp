@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hi, I'm Faris P </h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=DevOps+Engineer+%3A)" /> </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farisvtp&label=Profile%20views&color=0e75b6&style=flat" alt="farisvtp" /> </p><p align="justify"> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=farisvtp&label=Profile%20views&color=0e75b6&style=flat" alt="Farisvtp" /> </p><p align="justify"> 
 Highly skilled DevOps Engineer with extensive experience in automating infrastructure, deploying scalable cloud solutions, and ensuring high availability of systems. I have honed my expertise in CI/CD pipelines, configuration management, and container orchestration, while consistently staying updated with industry trends to implement cutting-edge DevOps practices. My focus is on streamlining operations, enhancing collaboration between development and operations, and driving continuous improvement for innovative software delivery.
  
 </p>
@@ -29,6 +29,8 @@ Highly skilled DevOps Engineer with extensive experience in automating infrastru
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original-wordmark.svg" alt="Maven icon" width="65" height="65" />
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux icon" width="65" height="65" /></a>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus logo" width="65" height="65" />
+
  
 
 
