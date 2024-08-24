@@ -20,8 +20,10 @@ Highly skilled DevOps Engineer with extensive experience in automating infrastru
 
 <h3 align="left">Tools</h3>
 <div align="left">
- <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS icon" width="65" height="65" />
- <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+ <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+ <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS icon" width="65" height="65" /></a>
+ <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+ <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /></a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original-wordmark.svg" alt="Ansible icon" width="65" height="65" />
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins icon" width="65" height="65" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes icon" width="65" height="65" />
